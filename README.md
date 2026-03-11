@@ -46,6 +46,8 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+<img width="1920" height="1080" alt="Screenshot 2026-03-11 160626" src="https://github.com/user-attachments/assets/22cf28e9-9972-49e0-9b34-2cb00cb6dff5" />
+
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 160626" src="https://github.com/user-attachments/assets/80a7dff4-ad71-49d4-999c-ba08f3a6b01e" />
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 160655" src="https://github.com/user-attachments/assets/0eee204a-27b8-4cd3-a8b3-012712141b43" />
 
